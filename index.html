@@ -5,12 +5,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>#</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
-    <script src="script.js"></script>
     
 </head>
 
 <body>
-    
+    <div class="carousel-wrapper">
+        <!-- Image Carousel -->
+        <section class="splash_carousel">
+
+            <!-- Carousel Content -->
+            <div class="splash_image fade">
+                <img src="media/header/image-splash1.png" alt="Mount Fuji">
+            </div>
+
+            <div class="splash_image fade">
+                <img src="media/header/image-splash2.png" alt="Torii">
+            </div>
+
+            <div class="splash_image fade">
+                <img src="media/header/image-splash3.png" alt="Temple">
+            </div>
+
+            <!-- Enter Website Button -->
+            <button onclick="nextPage()">Proceed</button>
+
+            <!-- Dot Image Count -->
+            <div class="splash_dots">
+                <span class="dot" onclick="currentSlide(1)"></span>
+                <span class="dot" onclick="currentSlide(2)"></span>
+                <span class="dot" onclick="currentSlide(3)"></span>
+            </div>
+
+        </section>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 
 </html>
