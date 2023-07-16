@@ -1,11 +1,9 @@
-// Splash Page Carousel
-
 let slideIndex = 0;
 showSlides();
 
 function showSlides() {
   let i;
-  let slides = document.getElementsByClassName("splash_image");
+  let slides = document.getElementsByClassName("splash_item");
   let dots = document.getElementsByClassName("dot");
 
   for (i = 0; i < slides.length; i++) {
