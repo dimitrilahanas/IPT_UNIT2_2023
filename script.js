@@ -1,3 +1,4 @@
+// Splash Page Photo Carousel
 let slideIndex = 0;
 showSlides();
 
