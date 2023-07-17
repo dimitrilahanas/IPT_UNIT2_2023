@@ -146,11 +146,21 @@ li, a {
     text-decoration: none;
 }
 
+.logo {
+    float: left;
+}
+
+.nav_links {
+    float: right;
+}
+
 header {
-    display: flex;
-    justify-content: space-between;
+    position: fixed;
+    width: 100%;
     padding: 30px 10%;
-    display: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .nav_links li {
@@ -166,4 +176,3 @@ header {
 .nav_links li a:hover {
     color: #BC002D;
 }
-
