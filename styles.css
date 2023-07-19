@@ -172,7 +172,7 @@ header {
 /* Page Content */
 
 .page_content {
-    padding-top: 65%;
+    padding-top: 70%;
 }
 
 h1 {
@@ -183,7 +183,9 @@ h1 {
 }
 
 p {
-    padding: 10%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 /* Footer */
