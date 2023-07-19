@@ -25,3 +25,5 @@ function showSlides() {
 
   setTimeout(showSlides, 8000); // Change image every 8 seconds
 }
+
+// Navbar Colour Change on Scroll

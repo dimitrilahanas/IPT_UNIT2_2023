@@ -146,14 +146,6 @@ li, a {
     text-decoration: none;
 }
 
-.logo {
-    float: left;
-}
-
-.nav_links {
-    float: right;
-}
-
 header {
     position: fixed;
     width: 100%;
@@ -175,4 +167,33 @@ header {
 
 .nav_links li a:hover {
     color: #BC002D;
+}
+
+/* Page Content */
+
+.page_content {
+    padding-top: 65%;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 5vw;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+p {
+    padding: 10%;
+}
+
+/* Footer */
+
+.footer_background img {
+    width: 100%;
+    position: absolute;
+}
+
+.footer_socials img {
+    position: relative;
+    width: 8%;
 }
