@@ -124,6 +124,12 @@
     color: #fff;
 }
 
+@media screen and (max-width: 500px) {
+    .carousel_text h2 {
+        font-size: 60px;
+    }
+}
+
 /* Banners */
 
 .banner {
