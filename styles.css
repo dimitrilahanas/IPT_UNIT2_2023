@@ -232,10 +232,14 @@ p {
     text-align: right;
 }
 
+.right_heading h1 {
+    padding-top: 15%;
+}
+
 .japan_map img{
     width: 20%;
     float: right;
-    padding-top: 15%;
+    padding-top: 20%;
     margin-right: 15%;
 }
 
