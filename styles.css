@@ -5,6 +5,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+hr {
+    border-width: 0;
+}
   
 /* Splash Page Image Carousel */
   
@@ -196,10 +200,12 @@ header {
     display: block;
 }
 
+
+
 /* Page Content */
 
 .page_content {
-    padding-top: 70%;
+    padding-top: 55%;
 }
 
 h1 {
@@ -207,12 +213,17 @@ h1 {
     font-size: 5vw;
     padding-left: 15%;
     padding-right: 15%;
+    padding-top: 10%;
 }
 
 p {
     padding-top: 5%;
     padding-left: 10%;
     padding-right: 10%;
+}
+
+.right_heading {
+    text-align: right;
 }
 
 /* Footer */
@@ -245,6 +256,10 @@ p {
     float: right;
     padding-top: 6.5%;
     margin-right: 3%; 
+}
+
+footer {
+    padding-top: 10%;
 }
 
 
