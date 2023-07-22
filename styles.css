@@ -220,8 +220,17 @@ p {
     padding-right: 15%;
 }
 
+/* intro.html page content */
+
 .right_heading {
     text-align: right;
+}
+
+.japan_map img{
+    width: 20%;
+    float: right;
+    padding-top: 15%;
+    margin-right: 15%;
 }
 
 /* Footer */
