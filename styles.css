@@ -220,6 +220,12 @@ p {
     padding-right: 15%;
 }
 
+@media screen and (max-width: 500px) {
+    p {
+        font-size: 1.5vw;
+    }
+}
+
 /* intro.html page content */
 
 .right_heading {
