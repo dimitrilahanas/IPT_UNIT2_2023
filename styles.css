@@ -236,6 +236,10 @@ p {
     padding-top: 15%;
 }
 
+.right_content {
+    text-align: right;
+}
+
 .japan_map img{
     width: 20%;
     float: right;
