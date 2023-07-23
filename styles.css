@@ -214,7 +214,7 @@ h1 {
 
 p {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 1vw;
+    font-size: 1.5vw;
     padding-top: 5%;
     padding-left: 15%;
     padding-right: 15%;
@@ -222,7 +222,7 @@ p {
 
 @media screen and (max-width: 500px) {
     p {
-        font-size: 1.5vw;
+        font-size: 1.7vw;
     }
 }
 
