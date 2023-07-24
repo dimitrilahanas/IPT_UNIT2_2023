@@ -351,12 +351,22 @@ p {
     margin-left: 42%;
 }
 
+
 /* Kenzo Intro page */
 
 .kenzo_page img {
     width: 20%;
     float: right;
     margin-right: 15%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+}
+
+.hiroshima_memorial img {
+    width: 30%;
+    float: right;
+    margin-right: 15%;
+    padding-top: 5%;
     padding-left: 5%;
     padding-bottom: 5%;
 }
