@@ -232,6 +232,14 @@ p {
     
 }
 
+.wrapper_left {
+    width: 100%;
+    float: none;
+    padding-top: 5%;
+    padding-left: 15%;
+    display: inline-block;
+}
+
 .wrapper {
     width: 100%;
     display: flex;
@@ -241,7 +249,7 @@ p {
 }
 
 .image {
-    width: 50%;
+    width: 40%;
     position: relative;
 }
 
