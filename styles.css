@@ -328,6 +328,19 @@ p {
     width: 15%;
     margin-left: 10%;
     margin-top: 10%;
+    float: left;
+}
+
+.tadao img {
+    width: 15%;
+    float: right;
+    margin-right: 10%;
+    margin-top: 10%
+}
+
+.kisho img {
+    width: 15%;
+    margin-left: 42%;
 }
 
 /* Footer */
