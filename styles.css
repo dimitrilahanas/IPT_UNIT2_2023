@@ -154,7 +154,6 @@ li, a {
 }
 
 header {
-    position: fixed;
     width: 100%;
     padding: 30px 10%;
     display: flex;
