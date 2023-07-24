@@ -144,7 +144,7 @@
     width: 100%;
 }
 
-/* Navbar */
+/* Navbar */ 
 
 li, a {
     font-family: 'Roboto', sans-serif;
@@ -322,7 +322,7 @@ p {
 
 .timeline img {
     width: 100%;
-
+    margin-top: 15%;
 }
 
 /* Footer */
