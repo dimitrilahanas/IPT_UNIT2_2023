@@ -6,6 +6,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.logo img {
+    width: 10%;
+}
+
   
 /* Splash Page Image Carousel */
   
@@ -73,6 +78,18 @@
     to {
       opacity: 1;
     }
+}
+
+.animated_arrow img {
+    width: 20%;
+    float: right;
+    padding-right: 10%;
+}
+
+.animated_arrow_left img {
+    width: 20%;
+    float: left;
+    padding-left: 10%;
 }
 
 /* Splash Page Btn */
@@ -206,6 +223,10 @@ header {
 
 .page_content {
     padding-top: 55%;
+}
+
+.page_content_smaller {
+    padding-top: 30%;
 }
 
 .heading_padding {
