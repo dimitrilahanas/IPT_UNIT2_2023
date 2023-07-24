@@ -208,8 +208,8 @@ header {
     padding-top: 55%;
 }
 
-.page_content_smallhead {
-    padding-top: 30%;
+.heading_padding {
+    padding-top: 5%;
 }
 
 h1 {
@@ -359,6 +359,26 @@ p {
     margin-right: 15%;
     padding-left: 5%;
     padding-bottom: 5%;
+}
+
+/* navigation icons */
+
+.icon_wrapper {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-top: 35%;
+    padding-right: 15%;
+}
+
+.icon_wrapper a {
+    display: block;
+    margin-right: 20px;
+}
+
+.icon_wrapper img {
+    width: 30px;
+    height: 30px;
 }
 
 /* Footer */
