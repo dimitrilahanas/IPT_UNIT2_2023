@@ -398,6 +398,13 @@ p {
     }
 }
 
+/* Videos */
+
+.video {
+    text-align: center;
+    padding-top: 5%;
+}
+
 /* Footer */
 
 .footer_background img {
