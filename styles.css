@@ -144,7 +144,11 @@
     width: 100%;
 }
 
-/* Navbar */ 
+/* Navbar */
+
+.nav_active {
+    color: #BC002D;
+}
 
 li, a {
     font-family: 'Roboto', sans-serif;
@@ -204,12 +208,16 @@ header {
     padding-top: 55%;
 }
 
+.page_content_smallhead {
+    padding-top: 30%;
+}
+
 h1 {
     font-family: 'Roboto', sans-serif;
     font-size: 4vw;
     padding-left: 15%;
     padding-right: 15%;
-    padding-top: 10%;
+    padding-top: 5%;
 }
 
 p {
@@ -341,6 +349,16 @@ p {
 .kisho img {
     width: 15%;
     margin-left: 42%;
+}
+
+/* Kenzo Intro page */
+
+.kenzo_page img {
+    width: 20%;
+    float: right;
+    margin-right: 15%;
+    padding-left: 5%;
+    padding-bottom: 5%;
 }
 
 /* Footer */
