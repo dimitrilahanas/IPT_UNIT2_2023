@@ -391,6 +391,13 @@ p {
     height: 30px;
 }
 
+@media screen and (max-width: 500px) {
+    .icon_wrapper img {
+        width: 20px;
+        height: 20px;
+    }
+}
+
 /* Footer */
 
 .footer_background img {
