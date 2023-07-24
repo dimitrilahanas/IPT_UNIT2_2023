@@ -317,11 +317,17 @@ p {
     margin-right: 2%;
 }
 
-/* Architectural History */
+/* Famous Japanese Architects */
 
 .timeline img {
     width: 100%;
-    margin-top: 15%;
+    
+}
+
+.kenzo img {
+    width: 15%;
+    margin-left: 10%;
+    margin-top: 10%;
 }
 
 /* Footer */
